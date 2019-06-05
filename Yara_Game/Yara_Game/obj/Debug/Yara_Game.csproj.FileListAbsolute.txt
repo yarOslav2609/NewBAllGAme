@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.Form1.resources
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.Properties.Resources.resources
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.Resource1.resources
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\bin\Debug\Yara_Game.exe.config
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\bin\Debug\Yara_Game.exe
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\bin\Debug\Yara_Game.pdb
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.exe
+C:\Users\Admin\source\repos\Yara_Game\Yara_Game\obj\Debug\Yara_Game.pdb
